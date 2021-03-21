@@ -1,1 +1,4 @@
-# MarktplaceProject
+# MarketplaceProject
+
+Basicamente, o projeto
+Seguiu
